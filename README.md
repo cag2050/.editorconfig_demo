@@ -1,3 +1,4 @@
+```
 // root：表明是最顶层的配置文件，发现设为true时，才会停止查找.editorconfig文件
 root = true
 
@@ -15,3 +16,4 @@ end_of_line = lf
 insert_final_newline = true
 // 设为true表示会除去换行行首的任意空白字符，false反之
 trim_trailing_whitespace = true
+```
